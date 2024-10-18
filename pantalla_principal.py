@@ -4,7 +4,7 @@ import login
 import ventana1
 import ventana2
 import ventana3
-
+print("hola puto")
 
 def cerrar_sesion(pantalla_principal):
     pantalla_principal.destroy()  # Cierra la pantalla principal
