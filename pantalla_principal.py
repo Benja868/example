@@ -5,6 +5,8 @@ import ventana1
 import ventana2
 import ventana3
 
+print("chupalo")
+
 def cerrar_sesion(pantalla_principal):
     pantalla_principal.destroy()  # Cierra la pantalla principal
     login.mostrar_pantalla_login()  # Vuelve a mostrar la pantalla de login
